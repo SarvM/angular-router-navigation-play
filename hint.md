@@ -19,5 +19,6 @@
 
 `Router Outlet`
 
-
+* routerLink and routerLinkActive
+* dynamic binding of path is possible through template expression
 
