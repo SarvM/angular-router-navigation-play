@@ -11,4 +11,13 @@
 
 `base href why?`
 
-`` A routed Angular application has one singleton instance of the Router service. ``
+` A routed Angular application has one singleton instance of the Router service. `
+
+* The order of the routes in the configuration matters and this is by design
+
+* first-match wins strategy when matching routes
+
+`Router Outlet`
+
+
+
